@@ -24,3 +24,7 @@ supabase:
   url: ${SUPABASE_URL}
   key: ${SUPABASE_KEY}
   bucket: ${SUPABASE_BUCKET}
+
+replicate:
+  url: ${REPLICATE_URL}
+  key: ${REPLICATE_TOKEN}
